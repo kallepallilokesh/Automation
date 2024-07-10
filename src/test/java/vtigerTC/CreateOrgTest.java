@@ -73,6 +73,6 @@ public static void main(String[] args) throws Throwable {
 			}
 			//logout from app
 			h.logOutOfApp(driver);
-			
+			System.out.println("Hi This is changed by TL from github");
 	}	
 	}
